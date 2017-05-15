@@ -1,2 +1,2 @@
 # hello-world
-new repository
+using this repository for learning purpose about git
